@@ -55,7 +55,7 @@ MailSender类参考手册
     :param smtppass: SMTP认证的密码
     :type smtppass: str
 
-    :param smtpport: SMTP连接的短裤 
+    :param smtpport: SMTP连接的端口 
     :type smtpport: int
 
     :param smtptls: 强制使用STARTTLS
